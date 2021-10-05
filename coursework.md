@@ -1,18 +1,33 @@
-# Coursework
+# Organizational Culture
 
-My name is Daniel, and my coursework is going to be great.
+### What does organizations differentiate?
+ 
+  
 
----
-
-Wait and see.. 
-
----
-ji
+##### A presentation by Daniel ... & Johannes von Fürstenberg
 
 ---
 
-Best group und so ne Dinger.
+##Content
 
+ 1. What is organizational culture?
+ 2. Importance of culture
+ 3. How to generate a culture?
+ 4. Examples for organizational culture
+    a. Google
+    b. Netflix
+    c. Zappos
+    d. Twitter
 ---
-Test test 123
----
+
+**type new content here and below**
+-->
+
+----
+#References
+No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
+https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
+
+
+----
+
