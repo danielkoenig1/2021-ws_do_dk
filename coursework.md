@@ -23,8 +23,9 @@
     c. Zappos
     d. Twitter
 
--Focus on the learning content
--Interactively ask questions about ex. creativity vs. structure, error culture and no error culture.
+   Focus on the learning content
+   Interactively ask questions about ex. creativity vs. structure, error culture and no error culture.
+
 ---
 
 **type new content here and below**
