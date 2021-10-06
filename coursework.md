@@ -36,13 +36,20 @@
 No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
 https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
 
+Organizational Culture - good source for the first overview
+https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
+
+
 
 ----
 
 =======
 
-<a href="https://www.youtube.com/watch?v=4cBN8xH-5Qw
-" target="_blank"><img src="https://pixabay.com/de/illustrations/meeting-treffen-miteinander-1015313/"alt="Organizational culture" width="240" height="180" border="10" /></a>
+[Organizational culture](hhttps://www.youtube.com/watch?v=4cBN8xH-5Qw&t=3s)
+Nur ein Test
+
+
+
 
 
 ---
