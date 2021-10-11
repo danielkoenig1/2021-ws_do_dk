@@ -1,14 +1,13 @@
 # Organizational Culture
-
+-----
 ### What does organizations differentiate?
  
   
 
-##### A presentation by Daniel ... & Johannes von Fürstenberg
+##### A presentation by Daniel König & Johannes von Fürstenberg
 
 ---
 
-<<<<<<< Updated upstream
 ##Content
 
  1. What is organizational culture?
@@ -31,7 +30,9 @@
 **type new content here and below**
 
 
-----
+-----
+
+
 #References
 No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
 https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
@@ -43,14 +44,3 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 
 ----
 
-=======
-
-[Organizational culture](hhttps://www.youtube.com/watch?v=4cBN8xH-5Qw&t=3s)
-Nur ein Test
-
-
-
-
-
----
->>>>>>> Stashed changes
