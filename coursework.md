@@ -60,7 +60,8 @@ Culture is a "system of rules and habits that guide how people live and behave t
 
 ### How is corporate culture built?
 
-![Abbildung 1](IMG_5864.heic)
+![Abbildung](coffee-gfc7b1f108_1920.jpg)
+
 
 (Insert picture again)
 
