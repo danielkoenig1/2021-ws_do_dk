@@ -49,8 +49,12 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 
 ### Definition of organizational culture
 
-Culture is a "system of rules and habits that guide how people live and behave together." 
-+ Cecil Herman 
+
+<dl>
+  <dt>Culture is a "system of rules and habits that guide how people live and behave together."
+
+>
+<dd> - Cecil Herman</dd>
 
 ---
 
