@@ -64,7 +64,6 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 
 ### How is corporate culture built?
 
-<img src=Bildschirmfoto.png alt="Alt-Text" title="optionaler Titel" />
 
 ![Abbildung](coffee-gfc7b1f108_1920.jpg)
 
