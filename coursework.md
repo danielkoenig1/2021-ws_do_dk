@@ -8,7 +8,7 @@
 
 ---
 
-##Content
+## Content
 
  1. What is organizational culture?
  2. How is culture created? -> How to generate a culture
@@ -40,7 +40,43 @@ https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
 Organizational Culture - good source for the first overview
 https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
 
+----
 
+### What is organizational culture?
+
+#### (Interactive learning - take fellow students on it and summarize the statements -> transition to the definition)
+----
+
+### Definition of organizational culture
+
+Culture is a "system of rules and habits that guide how people live and behave together." 
++ Cecil Herman 
+
+---
+
+(Give an example or describe the individual parts of the definition in more detail)
+
+---
+
+### How is corporate culture built?
+
+![Abbildung 1](IMG_5864.heic)
+
+(Insert picture again)
+
+---
+
+
+### Creation of a organizational culture
+
+
++ Coaching employees -> mentoring, supporting and reflecting on results
++ Improvement-oriented environment -> gaining experience independently
++ Setting an example of the desired culture -> Management acts as a good role model
 
 ----
 
+Notes: What the exact content of coaching is, in what areas employees can drive change independently, and what values management exemplifies. Depends on various factors.
+How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following.
+
+---
