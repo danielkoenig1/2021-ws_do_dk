@@ -87,3 +87,15 @@ Notes: What the exact content of coaching is, in what areas employees can drive 
 How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following.
 
 ---
+
+
+
+
+   ##                        Freedom and Responsibility
+
+      - remove vacation policy
+      - remove travel expense approvals
+      - no decision-making approvals needed (or the keeper test)
+      - lead with context, not control
+
+---
