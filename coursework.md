@@ -88,10 +88,10 @@ How important the corporate culture is and what types of corporate cultures ther
 
 ---
 
+<img src=netflix2.png alt="Alt-Text" title="optionaler Titel" />
 
 
-
-   ##                        Freedom and Responsibility
+   ## Organizational Culture of Freedom and Responsibility
 
       - remove vacation policy
       - remove travel expense approvals
