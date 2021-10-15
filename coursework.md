@@ -47,6 +47,10 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 #### (Interactive learning - take fellow students on it and summarize the statements -> transition to the definition)
 ----
 
+![Abbildung](puddingKopie3.png)
+
+----
+
 ### Definition of organizational culture
 
 
@@ -67,19 +71,19 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 
 ---
 
-![Abbildung](teil2Kopie.png)
+![Abbildung2](teil2Kopie.png)
 
 ---
 
-![Abbildung](teil3Kopie.png)
+![Abbildung3](teil3Kopie.png)
 
 ---
 
-![Abbildung](teil4Kopie.png)
+![Abbildung4](teil4Kopie.png)
 
 ---
 
-![Abbildung](teil5 Kopie.png)
+Abbildung5
 
 ---
 
