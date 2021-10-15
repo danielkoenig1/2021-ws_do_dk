@@ -63,11 +63,7 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 ---
 
 
-![Abbildung](teil1.jpeg)
-
-<img src=teil1.jpeg alt="Alt-Text" title="optionaler Titel" />
-
-
+![Abbildung](teil1Kopie.png)
 
 ---
 
