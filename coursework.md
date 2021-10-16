@@ -118,25 +118,57 @@ Notes: What the exact content of coaching is, in what areas employees can drive 
 How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following
 ---
 ## 3.  Types of organizational culture
+-----
 
 ![Abbildung] to add
 
 ----
 ![Airbnb](airbnb(R).jpg)
-> "Culture is simply a shared way of doing something with a passion." - _Brian Chesky, Co-Founder, CEO, Airbnb_
+> **"Culture is simply a shared way of doing something with a passion."** - _Brian Chesky, Co-Founder, CEO, Airbnb_
 
 ----
 
 ![Groupon(R)](Groupon(R).jpg)
-> "Hire great people and give them freedom to be awesome." - _Andrew Mason, Founder, Groupon_
+> **"Hire great people and give them freedom to be awesome."** - _Andrew Mason, Founder, Groupon_
 
 ---
-
-
-
----
-## **Importance of culture**
+ ### Approaches 
 -----
+
+Charles Handy (1979)
+
+Fons Trompenaars (1994)
+
+Kim Cameron and Robert Quinn (1998)
+
+---
+### Culture types classification
+___
+| Handy                  | | Tropenaars                      | 
+|:----------------------:| |:-----------------------------:  |
+| Power culture          | |family culture                  |
+| task culture           | |"Eiffel Tower" culture"         |
+| role culture           | |"Guided missile culture"        |
+| People culture         | |Incubator culture               |
+
+----
+### Kim Cameron and Robert Quinn
+
+![culture](4 culture types.jpg)
+
+
+---
+
+## **4. Importance of culture**
+-----
+- Importance: 
+     -     Stability 
+     -     Shared meaning 
+     -     Patterning
+     -     Dynamics
+
+>>  All aspects of group life
+---
 
 ---
 
@@ -156,3 +188,10 @@ How important the corporate culture is and what types of corporate cultures ther
 ---
 
 ## References
+
+###### No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
+###### https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
+
+###### https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
+
+ ###### http://www.doiserbia.nb.rs/img/doi/0013-3264/2013/0013-32641398035J.pdf
