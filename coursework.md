@@ -42,9 +42,8 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 
 ----
 
-### What is organizational culture?
+## 1. What is organizational culture?
 
-#### (Interactive learning - take fellow students on it and summarize the statements -> transition to the definition)
 ----
 
 ![Abbildung](puddingKopie3.png)
@@ -61,8 +60,28 @@ https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen
 <dd> - Cecil Herman</dd>
 
 ---
+### Components of a organizational culture:
 
-(Give an example or describe the individual parts of the definition in more detail)
+- social system
+- "rules":  
+     -     values 
+     -     norms 
+     -     worldviews
+
+ #### -> Behavior
+
+---
+Organizational culture is experienced internally, for example, by the fact that
+- ... everyone works perceptibly towards a goal and everyone does what is necessary at their place to support their colleagues to the best of their ability. (Positive example)
+
+Externals experience organizational culture, for example, in the fact that
+- ...the customer is still cared after by a retailer with the same attention as before, even after the purchase of a product or service.
+
+
+
+---
+
+## 2. How is organizational culture created?
 
 ---
 
@@ -96,15 +115,14 @@ Abbildung5
 
 (Insert picture again)
 
----
 
-
+----
 ### Creation of a organizational culture
-
-
-+ Coaching employees -> mentoring, supporting and reflecting on results
-+ Improvement-oriented environment -> gaining experience independently
-+ Setting an example of the desired culture -> Management acts as a good role model
+| Management            | Result                       | 
+| ----------------------|:--------------------------------:|
+| Coaching employees    | mentoring, supporting and reflecting on results |
+| Improvement-oriented environment | gaining experience independently |
+| Setting an example of the desired culture | Management acts as a good role model |
 
 ----
 
