@@ -147,15 +147,14 @@ ___
 | Handy                  | | Tropenaars                      | 
 |:----------------------:| |:-----------------------------:  |
 | Power culture          | |family culture                  |
-| task culture           | |"Eiffel Tower" culture"         |
-| role culture           | |"Guided missile culture"        |
+| role culture           | |"Eiffel Tower" culture         |
+| task culture           | |"Guided missile" culture        |
 | People culture         | |Incubator culture               |
 
 ----
 ### Kim Cameron and Robert Quinn
-
-![culture](4 culture types.jpg)
-
+-----
+![culture](4cultureTypes.jpg)
 
 ---
 
@@ -183,9 +182,13 @@ ___
       - lead with context, not control
 
 ---
-# Google
-
----
+![googlePic](google.jpg)
+-----
+    - Openness
+    - Innovation
+    - Excellence that comes with smartness
+    - Hands-on approach
+    - Small-company-family rapport     
 
 ## References
 
