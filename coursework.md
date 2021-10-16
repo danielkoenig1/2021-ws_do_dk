@@ -184,12 +184,21 @@ ___
 ---
 ![googlePic](google.jpg)
 -----
+> **“Make sure everybody in the company has great opportunities, has a meaningful impact and is contributing to the good of society.”** — _Larry Page, CEO, Google_
+
+----
     - Openness
     - Innovation
     - Excellence that comes with smartness
     - Hands-on approach
     - Small-company-family rapport     
+---
+## Survey
 
+[Click to test your knowledge](https://2mwcwrygo5f.typeform.com/to/ZbJ12muX)
+
+<button data-tf-popup="ZbJ12muX" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:30px;border-radius:35px;padding:0 44px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Test your knowledge</button><script src="//embed.typeform.com/next/embed.js"></script>
+---
 ## References
 
 ###### No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
