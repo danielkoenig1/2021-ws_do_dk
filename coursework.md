@@ -59,7 +59,7 @@
 
 ----
 
-![Abbildung](puddingKopie3.png)
+<img src=pudding.jpeg alt="Alt-Text" title="optionaler Titel" />
 
 ----
 
@@ -71,6 +71,7 @@
 
 >
 <dd> - Cecil Herman</dd>
+
 
 ---
 ### Components of a organizational culture:
@@ -99,23 +100,23 @@ Externals experience organizational culture, for example, in the fact that
 ---
 
 
-![Abbildung](teil1Kopie.png)
+![Abbildung](Abbildung.Kultur/part1.png)
 
 ---
 
-![Abbildung2](teil2Kopie.png)
+![Abbildung2](Abbildung.Kultur/part2.png)
 
 ---
 
-![Abbildung3](teil3Kopie.png)
+![Abbildung3](Abbildung.Kultur/part3.png)
 
 ---
 
-![Abbildung4](teil4Kopie.png)
+![Abbildung4](Abbildung.Kultur/part4.png)
 
 ---
 
-Abbildung5
+![Abbildung5](Abbildung.Kultur/part5.png)
 
 ---
 
