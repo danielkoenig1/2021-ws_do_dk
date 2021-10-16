@@ -59,6 +59,10 @@
 
 ----
 
+### What is your current understanding of organizational culture? 
+
+---
+
 <img src=pudding.jpeg alt="Alt-Text" title="optionaler Titel" />
 
 ----
