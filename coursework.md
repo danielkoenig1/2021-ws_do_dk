@@ -4,7 +4,8 @@
  
   
 
-##### A presentation by Daniel König & Johannes von Fürstenberg
+##### A presentation by 
+Daniel König & Johannes von Fürstenberg
 
 ---
 
@@ -33,24 +34,30 @@
 ![Abbildung] to add
 
 ----
-
+![Airbnb](airbnb(R).jpg)
 > "Culture is simply a shared way of doing something with a passion." - _Brian Chesky, Co-Founder, CEO, Airbnb_
 
 ----
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+![Groupon(R)](Groupon(R).jpg)
+> "Hire great people and give them freedom to be awesome." 
+- _Andrew Mason, Founder, Groupon_
+=======
+>>>>>>> Stashed changes
 
 <<<<<<< HEAD
 ## 1. What is organizational culture?
 =======
 > "Hire great people and give them freedom to be awesome." - _Andrew Mason, Founder, Groupon_
+>>>>>>> 52f7b4714fe9dc6ce6e3121303a2b52832d19545
 
 
 ---
-### Environment 
+### Reasons for actively create a organizational culture 
 
-{
-  "controls": true,
-  "progress": true
-}
+1. 
 
 ---
 
@@ -76,6 +83,32 @@
 >
 <dd> - Cecil Herman</dd>
 
+<<<<<<< Updated upstream
+=======
+---
+### Components of a organizational culture:
+
+- social system
+- "rules":  
+     -     values 
+     -     norms 
+     -     worldviews
+
+ #### -> Behavior
+
+---
+Organizational culture is experienced internally, for example, by the fact that
+- ... everyone works perceptibly towards a goal and everyone does what is necessary at their place to support their colleagues to the best of their ability.
+
+Externals experience organizational culture, for example, in the fact that
+- ...the customer is still cared after by a retailer with the same attention as before, even after the purchase of a product or service.
+
+
+
+---
+
+## 2. How is organizational culture created?
+>>>>>>> Stashed changes
 
 ---
 ### Components of a organizational culture:
@@ -118,6 +151,7 @@ Externals experience organizational culture, for example, in the fact that
 
 ![Abbildung4](Abbildung.Kultur/part4.png)
 
+<<<<<<< Updated upstream
 ---
 
 ![Abbildung5](Abbildung.Kultur/part5.png)
@@ -125,6 +159,12 @@ Externals experience organizational culture, for example, in the fact that
 ----
 ### Creation of a organizational culture
 | Action                | Result                       | 
+=======
+
+----
+### Creation of a organizational culture
+| Management            | Result                       | 
+>>>>>>> Stashed changes
 | ----------------------|:--------------------------------:|
 | Coaching employees    | mentoring, supporting and reflecting on results |
 | Improvement-oriented environment | gaining experience independently |
