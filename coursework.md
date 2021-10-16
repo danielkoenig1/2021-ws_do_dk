@@ -140,7 +140,7 @@ Abbildung5
 ----
 
 Notes: What the exact content of coaching is, in what areas employees can drive change independently, and what values management exemplifies. Depends on various factors.
-How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following.
+How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following
 
 ---
 
