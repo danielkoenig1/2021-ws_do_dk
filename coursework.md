@@ -85,7 +85,7 @@
 
 ---
 Organizational culture is experienced internally, for example, by the fact that
-- ... everyone works perceptibly towards a goal and everyone does what is necessary at their place to support their colleagues to the best of their ability. (Positive example)
+- ... everyone works perceptibly towards a goal and everyone does what is necessary at their place to support their colleagues to the best of their ability.
 
 Externals experience organizational culture, for example, in the fact that
 - ...the customer is still cared after by a retailer with the same attention as before, even after the purchase of a product or service.
