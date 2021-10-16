@@ -11,10 +11,10 @@
 ## Content
 
  1. What is organizational culture?
- 2. How is culture created? -> How to generate a culture
+ 2. How is culture created? 
  3. Importance of culture
- 4. what are the types?
-    freedom and responsibility -> Netflix, Marketing Agency 
+ 4. What are the types?
+   freedom and responsibility -> Netflix, Marketing Agency 
     rules and process -> hospitals
  5. Examples for organizational culture (How to connect culture to a company)
     a. Google
@@ -27,20 +27,29 @@
 
 ---
 
-**type new content here and below**
-
-
+## **Importance of culture**
 -----
 
-
-#References
-No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
-https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
-
-Organizational Culture - good source for the first overview
-https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
+![Abbildung] to add
 
 ----
+
+> "Culture is simply a shared way of doing something with a passion." - _Brian Chesky, Co-Founder, CEO, Airbnb_
+
+----
+
+> "Hire great people and give them freedom to be awesome." - _Andrew Mason, Founder, Groupon_
+
+
+---
+### Environment 
+
+{
+  "controls": true,
+  "progress": true
+}
+
+---
 
 ### What is organizational culture?
 
@@ -124,3 +133,11 @@ How important the corporate culture is and what types of corporate cultures ther
       - lead with context, not control
 
 ---
+
+
+#References
+No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
+https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
+
+Organizational Culture - good source for the first overview
+https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
