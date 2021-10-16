@@ -118,21 +118,9 @@ Externals experience organizational culture, for example, in the fact that
 
 ![Abbildung5](Abbildung.Kultur/part5.png)
 
----
-
-### How is corporate culture built?
-
-<img src=Abbildung1.png alt="Alt-Text" title="optionaler Titel" />
-
-![Abbildung](coffee-gfc7b1f108_1920.jpg)
-
-
-(Insert picture again)
-
-
 ----
 ### Creation of a organizational culture
-| Management            | Result                       | 
+| Action                | Result                       | 
 | ----------------------|:--------------------------------:|
 | Coaching employees    | mentoring, supporting and reflecting on results |
 | Improvement-oriented environment | gaining experience independently |
@@ -156,11 +144,3 @@ How important the corporate culture is and what types of corporate cultures ther
       - lead with context, not control
 
 ---
-
-
-#References
-No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
-https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
-
-Organizational Culture - good source for the first overview
-https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
