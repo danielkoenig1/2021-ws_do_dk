@@ -186,6 +186,8 @@ ___
 
 ## References
 
+###### Diagnosing and changing organizational culture, K. S. Cameron & R. E. Quinn (2011), 3rd Edition
+
 ###### No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
 ###### https://surveysparrow.com/blog/7-fabulous-organizational-culture-examples/
 
@@ -194,6 +196,6 @@ ___
  ###### http://www.doiserbia.nb.rs/img/doi/0013-3264/2013/0013-32641398035J.pdf
 
 ---
- # [Any questions?](QuestionMark22.mp4)
+ # [Any questions?](QuestionMark22.gif)
 
 ---
