@@ -1,6 +1,6 @@
-# Organizational Culture
+# <span style="color: green;"> Organizational Culture</span>
 -----
-### What does organizations differentiate?
+#### What does organizations differentiate?
  
   
 
@@ -15,24 +15,13 @@ Daniel König & Johannes von Fürstenberg
  2. How is culture created? 
  3. Importance of culture
  4. What are the types?
-   freedom and responsibility -> Netflix, Marketing Agency 
-    rules and process -> hospitals
- 5. Examples for organizational culture (How to connect culture to a company)
-    a. Google
-    b. Netflix
-    c. Zappos
-    d. Twitter
+ 5. Examples for organizational culture 
+      * Netflix   
+      * Google
+
 
    Focus on the learning content
    Interactively ask questions about ex. creativity vs. structure, error culture and no error culture.
-
----
-
-
----
-### Reasons for actively create a organizational culture 
-
-1. 
 
 ---
 
@@ -191,13 +180,14 @@ ___
     - Innovation
     - Excellence that comes with smartness
     - Hands-on approach
-    - Small-company-family rapport     
+    - Small-company-family rapport  
+
 ---
 ## Survey
 
 [Click to test your knowledge](https://2mwcwrygo5f.typeform.com/to/ZbJ12muX)
 
-<button data-tf-popup="ZbJ12muX" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:30px;border-radius:35px;padding:0 44px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Test your knowledge</button><script src="//embed.typeform.com/next/embed.js"></script>
+<button data-tf-popup="ZbJ12muX" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:30px;border-radius:35px;padding:0 44px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Are you ready?</button><script src="//embed.typeform.com/next/embed.js"></script>
 ---
 ## References
 
