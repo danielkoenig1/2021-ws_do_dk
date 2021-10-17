@@ -23,15 +23,22 @@ Daniel König & Johannes von Fürstenberg
 
 ---
 
-### 1. Organizational culture
+## 1. Organizational culture
 -----
 '
 
 ### What is your current understanding of organizational culture? 
 
----
+----
 
-<img src=pudding.jpeg alt="Alt-Text" title="optionaler Titel" />
+![Netflixpicture](netflix2.png)
+
+## Freedom & Responsibility
+
+      - remove vacation policy
+      - remove travel expense approvals
+      - keeper test
+      - lead with context not control
 
 ----
 
@@ -45,7 +52,7 @@ Daniel König & Johannes von Fürstenberg
 <dd> - Cecil Herman</dd>
 
 
----
+----
 ### Components of a organizational culture:
 
 - social system
@@ -54,9 +61,9 @@ Daniel König & Johannes von Fürstenberg
      -     norms 
      -     worldviews
 
- #### ==> Behaviour
+ #### &rarr; Behaviour
 
----
+----
 <dl>
 
 ### Organizational culture is experienced...
@@ -71,7 +78,8 @@ Daniel König & Johannes von Fürstenberg
 
 ---
 
-## 2. How is organizational culture created?
+## 2. Generation of organizational culture
+-----
 
 ----
 
@@ -107,8 +115,6 @@ Daniel König & Johannes von Fürstenberg
 ## 3.  Types of organizational culture
 -----
 
-![Abbildung] to add
-
 ----
 ![Airbnb](airbnb(R).jpg)
 > **"Culture is simply a shared way of doing something with a passion."** - _Brian Chesky, Co-Founder, CEO, Airbnb_
@@ -118,7 +124,7 @@ Daniel König & Johannes von Fürstenberg
 ![Groupon(R)](Groupon(R).jpg)
 > **"Hire great people and give them freedom to be awesome."** - _Andrew Mason, Founder, Groupon_
 
----
+----
  ### Approaches 
 -----
 
@@ -128,7 +134,7 @@ Fons Trompenaars (1994)
 
 Kim Cameron and Robert Quinn (1998)
 
----
+----
 ### Culture types classification
 ___
 | Handy                  | | Tropenaars                      | 
@@ -153,10 +159,11 @@ ___
      -     Patterning
      -     Dynamics
 
->>  All aspects of group life
+>> &rarr; All aspects of group life
 ---
-
----
+## 5. Examples
+-----
+----
 
 <img src=netflix2.png alt="Alt-Text" title="optionaler Titel" />
 
@@ -169,7 +176,7 @@ ___
       - no decision-making approvals needed (or the keeper test)
       - lead with context, not control
 
----
+----
 ![googlePic](google2.0.0.png)
 -----
 > **“Make sure everybody in the company has great opportunities, has a meaningful impact and is contributing to the good of society.”** — _Larry Page, CEO, Google_
@@ -188,8 +195,7 @@ ___
 
 <button data-tf-popup="ZbJ12muX" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#0445AF;color:#FFFFFF;font-size:30px;border-radius:35px;padding:0 44px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Are you ready?</button><script src="//embed.typeform.com/next/embed.js"></script>
 ---
-[LinkToQuestionmarkGif]
----
+
 ## References
 
 ###### No Rules Rules: Netflix and the Culture of Reinvention, R. Hasting, E. Meyer (2020)
@@ -198,3 +204,8 @@ ___
 ###### https://organisationsberatung.net/unternehmenskultur-kulturwandel-in-unternehmen-organisationen/
 
  ###### http://www.doiserbia.nb.rs/img/doi/0013-3264/2013/0013-32641398035J.pdf
+
+---
+ # [Any questions?](QuestionMark22.mp4)
+
+---
