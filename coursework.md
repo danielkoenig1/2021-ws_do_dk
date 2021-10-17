@@ -76,11 +76,11 @@ Daniel König & Johannes von Fürstenberg
 ----
 
 
-![Abbildung](Abbildung.Kultur/part1.png)
+![Abbildung1](part1.1.png)
 
 ----
 
-![Abbildung2](Abbildung.Kultur/part2.png)
+![Abbildung2](part2.1.png)
 
 ----
 
@@ -88,11 +88,11 @@ Daniel König & Johannes von Fürstenberg
 
 ----
 
-![Abbildung4](Abbildung.Kultur/part4.png)
+![Abbildung4](part4.1.png)
 
 ----
 
-![Abbildung5](Abbildung.Kultur/part5.png)
+![Abbildung5](part5.1.png)
 
 ----
 ### Creation of a organizational culture
