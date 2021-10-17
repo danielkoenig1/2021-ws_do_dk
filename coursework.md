@@ -11,11 +11,11 @@ Daniel König & Johannes von Fürstenberg
 
 ## Content
 
- 1. organizational culture
+ 1. Organizational culture
  2. How is culture created? 
  3. Importance of culture
  4. What are the types?
- 5. Examples for organizational culture 
+ 5. Examples for organizational cultures 
       * Netflix   
       * Google
 
@@ -23,20 +23,20 @@ Daniel König & Johannes von Fürstenberg
 
 ---
 
-### 1. Organizational culture
+## 1. Organizational culture
 -----
 '
 
 ### What is your current understanding of organizational culture? 
 
----
+----
 
 <img src=pudding.jpeg alt="Alt-Text" title="optionaler Titel" />
 
 ----
 
 ### Definition of organizational culture
-
+-----
 
 <dl>
   <dt>Culture is a "system of rules and habits that guide how people live and behave together."
@@ -45,7 +45,7 @@ Daniel König & Johannes von Fürstenberg
 <dd> - Cecil Herman</dd>
 
 
----
+----
 ### Components of a organizational culture:
 
 - social system
@@ -56,7 +56,7 @@ Daniel König & Johannes von Fürstenberg
 
  #### ==> Behaviour
 
----
+----
 <dl>
 
 ### Organizational culture is experienced...
@@ -67,11 +67,10 @@ Daniel König & Johannes von Fürstenberg
 **<span style="color: red;">externally</span>**, by the fact that
 - ...the **<span style="color: green;">customer</span>** is still cared after by a retailer with the **<span style="color: green;">same attention</span>** as before, even after the purchase of a product or service.
 
-
-
 ---
 
 ## 2. How is organizational culture created?
+-----
 
 ----
 
@@ -107,9 +106,6 @@ Daniel König & Johannes von Fürstenberg
 ## 3.  Types of organizational culture
 -----
 
-![Abbildung] to add
-
-----
 ![Airbnb](airbnb(R).jpg)
 > **"Culture is simply a shared way of doing something with a passion."** - _Brian Chesky, Co-Founder, CEO, Airbnb_
 
@@ -118,7 +114,7 @@ Daniel König & Johannes von Fürstenberg
 ![Groupon(R)](Groupon(R).jpg)
 > **"Hire great people and give them freedom to be awesome."** - _Andrew Mason, Founder, Groupon_
 
----
+----
  ### Approaches 
 -----
 
@@ -128,9 +124,9 @@ Fons Trompenaars (1994)
 
 Kim Cameron and Robert Quinn (1998)
 
----
+----
 ### Culture types classification
-___
+-----
 | Handy                  | | Tropenaars                      | 
 |:----------------------:| |:-----------------------------:  |
 | Power culture          | |family culture                  |
@@ -154,21 +150,22 @@ ___
      -     Dynamics
 
 >>  All aspects of group life
----
+----
+## 5. Examples
+-----
+
+----
+![netflixbild](netflix2.png)
+
+### Freedom and Responsibility
+
+   - remove vacation policy
+   - remove travel expense approvals
+   - no decision-making approvals (or the keeper test)
+   - lead with context, not control
 
 ---
 
-<img src=netflix2.png alt="Alt-Text" title="optionaler Titel" />
-
-
-   ## Organizational Culture of Freedom and Responsibility
-
-      - remove vacation policy
-      - remove travel expense approvals
-      - no decision-making approvals needed (or the keeper test)
-      - lead with context, not control
-
----
 ![googlePic](google.jpg)
 -----
 > **“Make sure everybody in the company has great opportunities, has a meaningful impact and is contributing to the good of society.”** — _Larry Page, CEO, Google_
