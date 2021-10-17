@@ -31,16 +31,6 @@ Daniel König & Johannes von Fürstenberg
 
 ----
 
-![Netflixpicture](netflix2.png)
-
-## Freedom & Responsibility
-
-      - remove vacation policy
-      - remove travel expense approvals
-      - keeper test
-      - lead with context not control
-
-----
 
 ### Definition of organizational culture
 
@@ -163,18 +153,16 @@ ___
 ---
 ## 5. Examples
 -----
+
 ----
+![Netflixpicture](netflix2.png)
 
-<img src=netflix2.png alt="Alt-Text" title="optionaler Titel" />
+### Freedom & Responsibility
+   - remove vacation policy
+   - remove travel expense approvals
+   - keeper test
+   - lead with context, not control
 
-
-
-   ## Organizational Culture of Freedom and Responsibility
-
-      - remove vacation policy
-      - remove travel expense approvals
-      - no decision-making approvals needed (or the keeper test)
-      - lead with context, not control
 
 ----
 ![googlePic](google2.0.0.png)
