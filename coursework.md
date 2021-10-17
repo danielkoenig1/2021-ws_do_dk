@@ -84,7 +84,7 @@ Daniel König & Johannes von Fürstenberg
 
 ----
 
-![Abbildung3](Abbildung.Kultur/part3.png)
+![Abbildung3](part3.1.png)
 
 ----
 
