@@ -11,7 +11,7 @@ Daniel König & Johannes von Fürstenberg
 
 ## Content
 
- 1. What is organizational culture?
+ 1. organizational culture
  2. How is culture created? 
  3. Importance of culture
  4. What are the types?
@@ -20,15 +20,12 @@ Daniel König & Johannes von Fürstenberg
       * Google
 
 
-   Focus on the learning content
-   Interactively ask questions about ex. creativity vs. structure, error culture and no error culture.
 
 ---
 
-### What is organizational culture?
-
-
-----
+### 1. Organizational culture
+-----
+'
 
 ### What is your current understanding of organizational culture? 
 
@@ -57,14 +54,18 @@ Daniel König & Johannes von Fürstenberg
      -     norms 
      -     worldviews
 
- #### -> Behavior
+ #### ==> Behaviour
 
 ---
-Organizational culture is experienced internally, for example, by the fact that
-- ... everyone works perceptibly towards a goal and everyone does what is necessary at their place to support their colleagues to the best of their ability.
+<dl>
 
-Externals experience organizational culture, for example, in the fact that
-- ...the customer is still cared after by a retailer with the same attention as before, even after the purchase of a product or service.
+### Organizational culture is experienced...
+
+ **<span style="color: red;">internally</span>**, by the fact that
+- ... **<span style="color: green;">everyone works perceptibly</span>** towards a goal and everyone does what is necessary at their place to **<span style="color: green;">support their colleagues</span>** to the best of their ability.
+
+**<span style="color: red;">externally</span>**, by the fact that
+- ...the **<span style="color: green;">customer</span>** is still cared after by a retailer with the **<span style="color: green;">same attention</span>** as before, even after the purchase of a product or service.
 
 
 
@@ -72,39 +73,36 @@ Externals experience organizational culture, for example, in the fact that
 
 ## 2. How is organizational culture created?
 
----
+----
 
 
 ![Abbildung](Abbildung.Kultur/part1.png)
 
----
+----
 
 ![Abbildung2](Abbildung.Kultur/part2.png)
 
----
+----
 
 ![Abbildung3](Abbildung.Kultur/part3.png)
 
----
+----
 
 ![Abbildung4](Abbildung.Kultur/part4.png)
 
----
+----
 
 ![Abbildung5](Abbildung.Kultur/part5.png)
 
 ----
 ### Creation of a organizational culture
-| Action                | Result                       | 
-| ----------------------|:--------------------------------:|
-| Coaching employees    | mentoring, supporting and reflecting on results |
-| Improvement-oriented environment | gaining experience independently |
-| Setting an example of the desired culture | Management acts as a good role model |
+| Action                | | Result                       | 
+| ----------------------| |--------------------------------|
+| Coaching employees    | | mentoring, supporting and reflecting on results |
+| Improvement-oriented environment | | gaining experience independently |
+| Setting an example of the desired culture | | Management acts as a good role model |
 
-----
 
-Notes: What the exact content of coaching is, in what areas employees can drive change independently, and what values management exemplifies. Depends on various factors.
-How important the corporate culture is and what types of corporate cultures there are, Johnny will tell you in the following
 ---
 ## 3.  Types of organizational culture
 -----
