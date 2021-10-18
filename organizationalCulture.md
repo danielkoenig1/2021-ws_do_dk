@@ -137,7 +137,7 @@ ___
 ----
 ### Kim Cameron and Robert Quinn
 -----
-![culture](4culturetypes.final.png)
+![culture](culture4.final.png)
 
 ---
 
