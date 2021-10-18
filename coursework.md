@@ -11,7 +11,7 @@ Daniel König & Johannes von Fürstenberg
 
 ## Content
 
- 1. organizational culture
+ 1. Organizational culture
  2. How is culture created? 
  3. Importance of culture
  4. What are the types?
@@ -157,7 +157,9 @@ ___
 ----
 ![Netflixpicture](netflix2.png)
 
+----
 ### Freedom & Responsibility
+-----
    - remove vacation policy
    - remove travel expense approvals
    - keeper test
@@ -166,15 +168,18 @@ ___
 
 ----
 ![googlePic](google2.0.0.png)
------
-> **“Make sure everybody in the company has great opportunities, has a meaningful impact and is contributing to the good of society.”** — _Larry Page, CEO, Google_
 
 ----
-    - Openness
-    - Innovation
-    - Excellence that comes with smartness
-    - Hands-on approach
-    - Small-company-family rapport  
+<dr>
+
+**“Make sure everybody in the company has great opportunities, has a meaningful impact and is contributing to the good of society.”** — _Larry Page, CEO, Google_
+
+-----
+- Openness
+- Innovation
+- Excellence that comes with smartness
+- Hands-on approach
+- Small-company-family rapport  
 
 ---
 ## Survey
